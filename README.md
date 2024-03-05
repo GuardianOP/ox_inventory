@@ -20,6 +20,7 @@ https://github.com/overextended/ox_inventory/releases/latest/download/ox_invento
 - Server-side security ensures interactions with items, shops, and stashes are all validated.
 - Logging for important events, such as purchases, item movement, and item creation or removal.
 - Supports player-owned vehicles, licenses, and group systems implemented by frameworks.
+- Weapons drop inspired from RUST
 
 ### Supported frameworks
 - [ox_core](https://github.com/overextended/ox_core)
